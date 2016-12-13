@@ -1,0 +1,2 @@
+1. Be aware of the potential overfitting problem. This is only a raw algorithm with simplified data and simple loss limit control.
+2. Empirical Approach: more training steps doesn't always lead to better result, but does cost much more time in training.
