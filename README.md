@@ -2,6 +2,7 @@ Artificial Intelligence, WPI 2016 Spring.
 
 Some python codes for homework and proj, including robot localization (HMM) and Recurrent Reinforcement Learning (or ANN) in financial trading. Codes must run in 64bit python3.
 
+
 Another issue is that there are many typos in the report. Too lazy to update, since I've lost the original Tex file. The math part should be good in the program, though I found typos in the derivation in the report. Please refer to the original papers.
 
 HM Problem: Aritficial Intelligence A Modern Approach pp.607, ex 15.9
@@ -11,3 +12,5 @@ surrounding (x, y), with probability 0.025 each it reports one of the 16 locatio
 track the robot. How accurately can we track the robot’s path?
 
 
+update:
+The RRL codes here are slow and don't clude online learning codes. You may refer to the appendix of my graduation project for faster online learning codes.
